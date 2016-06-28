@@ -2,6 +2,10 @@
 
 How to use this ChEMBL App ?
 
+Open https://navygit.github.io/   
+
+or
+
 1. Fire up the index.html file in your favorite browser
 
 2. Go to Static > Data folder
